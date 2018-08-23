@@ -1,0 +1,6 @@
+[package]
+name = "rust-auditd"
+version = "0.1.0"
+authors = ["Yadunandan Pillai <ytpillai@gmail.com>"]
+
+[dependencies]
